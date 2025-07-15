@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there! 👋 
 
-<!--
-**Poranny/Poranny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Adam, I'm passionate about Reinforcement Learning, simulation software (especially electromagnetism and particle physics), and 3D visualization. Currently pursuing a master's in Computer Science with a specialization in Artificial Intelligence at Poznań University of Technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Currently working on
+
+- **[Sssnake-solver](https://github.com/Poranny/Sssnake-solver)** – exploring RL algorithms that could help solve my [Sssnake](https://github.com/Poranny/Sssnake) env;
+- trying out interesting transformer models from HuggingFace.
+
+---
+
+### 🛠️ Tech stack
+- **Python** – using it for most projects these days, with the help of `Gymnasium`, `Stable Baselines`, `PyTorch`, `scikit-learn` etc. for ML/RL, data-driven and other tasks;
+- **C++** - for performance-critical applications and parallel computing, often involving `OpenMP`, `CUDA`, or `OpenGL`;
+- **C#** - mostly for fun game dev side projects, usually with the help of `Unity` game engine.
+
+---
+
+I'm also a 3D Artist! Obsessed with all kinds of hyperrealism, these days working mostly on product ads and game trailers. You can find my ArtStation profile below :)
+
+---
+
+### 📫 Let's get in touch!
+
+- 🔗 [LinkedIn](www.linkedin.com/in/adam-malinowski-a50632181/)
+- 🎨 [ArtStation](https://www.artstation.com/adammalinowski6)
+- 📧 adam@poranny.it
