@@ -4,7 +4,7 @@ My name is Adam, I'm passionate about Reinforcement Learning, simulation softwar
 
 ---
 
-### ⚙️ Currently working on
+### ⚙️ Currently up to
 
 - **[Sssnake-solver](https://github.com/Poranny/Sssnake-solver)** – exploring RL algorithms that could help solve my [Sssnake](https://github.com/Poranny/Sssnake) env;
 - trying out interesting transformer models from HuggingFace.
@@ -12,6 +12,7 @@ My name is Adam, I'm passionate about Reinforcement Learning, simulation softwar
 ---
 
 ### 🛠️ Tech stack
+
 - **Python** – using it for most projects these days, with the help of `Gymnasium`, `Stable Baselines`, `PyTorch`, `scikit-learn` etc. for ML/RL, data-driven and other tasks;
 - **C++** - for performance-critical applications and parallel computing, often involving `OpenMP`, `CUDA`, or `OpenGL`;
 - **C#** - mostly for fun game dev side projects, usually with the help of `Unity` game engine.
