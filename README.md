@@ -1,6 +1,6 @@
 ## Hi there! 👋 
 
-My name is Adam, I'm passionate about Reinforcement Learning, simulation software (especially electromagnetism and particle physics), and 3D visualization. Currently pursuing a master's in Computer Science with a specialization in Artificial Intelligence at Poznań University of Technology.
+My name is Adam, I'm passionate about reinforcement learning, simulation software (especially electromagnetism and particle physics), and 3D visualization. Currently pursuing a master's in Computer Science with a specialization in Artificial Intelligence at Poznań University of Technology.
 
 ---
 
