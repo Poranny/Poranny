@@ -7,6 +7,7 @@ My name is Adam, I'm passionate about reinforcement learning, simulation softwar
 ### ⚙️ Currently up to
 
 - **[Sssnake-solver](https://github.com/Poranny/Sssnake-solver)** – exploring RL algorithms that could help solve my [Sssnake](https://github.com/Poranny/Sssnake) env;
+- **[Backprop](https://github.com/Poranny/Backprop)** - developing a simple neural network from the very scratch;
 - trying out interesting transformer models from HuggingFace.
 
 ---
