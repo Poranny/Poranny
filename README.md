@@ -26,6 +26,6 @@ I'm also a 3D Artist! Obsessed with all kinds of hyperrealism, these days workin
 
 ### 📫 Let's get in touch!
 
-- 🔗 [LinkedIn](www.linkedin.com/in/adam-malinowski-a50632181/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adam-malinowski-a50632181)
 - 🎨 [ArtStation](https://www.artstation.com/adammalinowski6)
 - 📧 adam@poranny.it
