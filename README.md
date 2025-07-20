@@ -15,7 +15,7 @@ My name is Adam, I'm passionate about reinforcement learning, simulation softwar
 ### 🛠️ Tech stack
 
 - **Python** – using it for most projects these days, with the help of `Gymnasium`, `Stable Baselines`, `PyTorch`, `scikit-learn` etc. for ML/RL, data-driven and other tasks;
-- **C++** - for performance-critical applications and parallel computing, often involving `OpenMP`, `CUDA`, or `OpenGL`;
+- **C++** - for performance-critical applications (that is mostly simulation software) and parallel computing, often involving `OpenMP`, `CUDA`, or `OpenGL`;
 - **C#** - mostly for fun game dev side projects, usually with the help of `Unity` game engine.
 
 ---
